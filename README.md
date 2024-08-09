@@ -18,7 +18,7 @@
 
 Базовое нагрузочное тестирование (Jmeter, Locust, wrk, Apache Bench, vegeta, siege)
 
-Документация (Confluence)
+Работа с документацией (Confluence)
 
 Администрирование 200 клиентских компьютеров; удалённое администрирование компьютеров в филиалах(компьютеры подключены через OpenVPN); осуществление выездных приёмов; администрирование почтового сервера microsoft exchange; администрирование файловых серверов; администрирование DHCP; администрирование Active Directory; прокладывание компьютерной сети; настройка маршрутизаторов; сборка\разборка системных блоков; установка\удаление\восстановление ОС и ПО; работа с apache и MySQL; Администрирование\разворачивание\миграция серверов на ос Linux(debian, ubuntu, redhat, centos, mint, opensuse); разворачивание и администрирование серверов: sftp, ftp, samba, pxe, zabbix, gns3, iRedmail, Active Directory(на censtos, ubuntu, WindowsServer), web-сервер; администрирование сервера видеонаблюдения (trassir); администрирование СКУД Sphinx; работа с виртуальными машинами(virtualbox, VMware, Hyper-V, VMware ESXi; Proxmox); удалённое администрирование(RDP, ssh, Ansible, AnyDesk, teamviewer, TightVNC, RAdmin, ammyy admin, LiteManager, chrome remote desktop); создание и восстановление бэкапов(acronis true image, acronis backup, R-Drive Image, GParted); Разворачивание и администрирование asterisk(freepbx), VPN(OpenVPN); работа с электронными подписями (криптопро, криптоарм, SimpleSigner); XMPP(ejabberd); git; Создание сайтов, форумов, интернет магазинов и файлообменников на CMS (WordPress; Joomla; OpenCart; Tilda; Drupal; phpBB); Cisco Packet Tracer; Wireshark; tcpdump; OpenMediaVault; ownCloud; ipFire; smoothwall;
 
@@ -76,6 +76,7 @@ https://github.com/GamovMax/JsHtml
 
 <div>
   <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
+  <img src='https://marketplace.atlassian.com/files/eaaf85d7-dc1e-499c-82de-7c3278f88b7b?fileType=image&mode=full-fit' title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp
   <img src="https://infostart.ru/upload/iblock/2c6/redmine-logo-300x300-png8.png" title="Redmine" alt="Redmine" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/ru/0/00/Mantis_logo.gif" title="Mantis" alt="Mantis" width="95" height="40"/>&nbsp
@@ -153,10 +154,12 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Microsoft_Exchange_%282019-present%29.svg" title="Microsoft Exchange" alt="Microsoft Exchange" width="44" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png" title="PuTTY" alt="PuTTY" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" title="WinSCP" alt="WinSCP" width="40" height="40"/>&nbsp
+  <img src='https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg' title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp
   <img src='https://upload.wikimedia.org/wikipedia/commons/b/bb/TightVNC_logo.png' title="TightVNC" alt="TightVNC" width="40" height="40"/>&nbsp
   <img src='https://upload.wikimedia.org/wikipedia/commons/8/83/Chrome_Remote_Desktop_logo.png' title="Chrome Remote Desktop" alt="Chrome Remote Desktop" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Oc-logo-1c-invert.svg" title="ownCloud" alt="ownCloud" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Scalable_gparted.svg" title="GParted" alt="GParted" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Acronis_True_Image_2015_icon.png" title="Acronis True Image" alt="Acronis True Image" width="46" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" title="Debian" alt="Debian" width="32" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Alt_linux_team_logo.png" title="ALT Linux" alt="ALT Linux" width="40" height="40"/>&nbsp
    <img src="https://www.svgrepo.com/show/448253/terraform.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp
