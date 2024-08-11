@@ -4,28 +4,28 @@
 
 ### 👨‍💻 Обо мне:
 
-Работа с тест-кейсами (TestRail, Allure TestOps)
+**Работа с тест-кейсами** (TestRail, Allure TestOps)
 
-Тестирование backend (Java, JUnit, TestNG, REST assured, postman, SoapUI, swagger, devtools, Python, pytest, requests)
+**Тестирование backend** (Java, JUnit, TestNG, REST assured, postman, SoapUI, swagger, devtools, Python, pytest, requests)
 
-Разработка ui автотестов (Java, JUnit, Selenium, TestNG, Allure, Selenium Grid, Python, pytest)
+**Разработка ui автотестов** (Java, JUnit, Selenium, TestNG, Allure, Selenium Grid, Python, pytest)
 
-Работа с виртуальными машинами (virtualbox, VMware, Hyper-V, VMware ESXi, Proxmox) и физическими серверами (Linux, Windows Server): samba, pxe, iRedmail, Active Directory, XMPP(ejabberd), web-сервера.
+**Работа с виртуальными машинами** (virtualbox, VMware, Hyper-V, VMware ESXi, Proxmox) и физическими серверами (Linux, Windows Server): samba, pxe, iRedmail, Active Directory, XMPP(ejabberd), web-сервера.
 
-Оформление и сопровождение багов (Readmine, Mantis)
+**Оформление и сопровождение багов** (Readmine, Mantis)
 
-Снифферы трафика (Charles Proxy, Fiddler)
+**Снифферы трафика** (Charles Proxy, Fiddler)
 
-Базовое нагрузочное тестирование (Jmeter, Locust, wrk, Apache Bench, vegeta, siege)
+**Базовое нагрузочное тестирование** (Jmeter, Locust, wrk, Apache Bench, vegeta, siege)
 
-Работа с документацией (Confluence)
+**Работа с документацией** (Confluence)
 
 Администрирование 200 клиентских компьютеров; удалённое администрирование компьютеров в филиалах(компьютеры подключены через OpenVPN); осуществление выездных приёмов; администрирование почтового сервера microsoft exchange; администрирование файловых серверов; администрирование DHCP; администрирование Active Directory; прокладывание компьютерной сети; настройка маршрутизаторов; сборка\разборка системных блоков; установка\удаление\восстановление ОС и ПО; работа с apache и MySQL; Администрирование\разворачивание\миграция серверов на ос Linux(debian, ubuntu, redhat, centos, mint, opensuse); разворачивание и администрирование серверов: sftp, ftp, samba, pxe, zabbix, gns3, iRedmail, Active Directory(на censtos, ubuntu, WindowsServer), web-сервер; администрирование сервера видеонаблюдения (trassir); администрирование СКУД Sphinx; работа с виртуальными машинами(virtualbox, VMware, Hyper-V, VMware ESXi; Proxmox); удалённое администрирование(RDP, ssh, Ansible, AnyDesk, teamviewer, TightVNC, RAdmin, ammyy admin, LiteManager, chrome remote desktop); создание и восстановление бэкапов(acronis true image, acronis backup, R-Drive Image, GParted); Разворачивание и администрирование asterisk(freepbx), VPN(OpenVPN); работа с электронными подписями (криптопро, криптоарм, SimpleSigner); XMPP(ejabberd); git; Создание сайтов, форумов, интернет магазинов и файлообменников на CMS (WordPress; Joomla; OpenCart; Tilda; Drupal; phpBB); Cisco Packet Tracer; Wireshark; tcpdump; OpenMediaVault; ownCloud; ipFire; smoothwall;
 
-Изучал в колледже и университете:
+**Изучал в колледже и университете:**
 C++; c#; perl; JavaScript; python; delphi; HTML; CSS; SQL;
 
-Курсы:<br>
+**Курсы:**<br>
 https://stepik.org/cert/2488794<br>
 https://youtube.com/playlist?list=PLZqgWWF4O-ziBZVXN19WcRHPM5DkH672c&feature=shared<br>
 https://youtube.com/playlist?list=PLZqgWWF4O-zgDLDBMva788aJf_vQ9GKJv&feature=shared<br>
@@ -35,22 +35,22 @@ https://stepik.org/cert/2465939<br>
 https://stepik.org/cert/2470327<br>
 https://stepik.org/cert/2525923
 
-Мой базовый framework (Java + Selenium + JUnit + RestAssured):
+**Мой базовый framework (Java + Selenium + JUnit + RestAssured):**
 https://github.com/GamovMax/SeleniumJavaJUnit
 
-Автотесты на python (python + pytest + selenium + requests):
+**Автотесты на python (python + pytest + selenium + requests):**
 https://github.com/GamovMax/PythonPytestSeleniumRequests
 
-Разработанный мною сайт (PHP + HTML + CSS):
+**Разработанный мною сайт (PHP + HTML + CSS):**
 https://github.com/GamovMax/PhpHtmlCss
 
-Bash-скрипт (многое из скрипта удалено из-за неразглашения коммерческой тайны):
+**Bash-скрипт (многое из скрипта удалено из-за неразглашения коммерческой тайны):**
 https://github.com/GamovMax/Bash
 
-Игра, 2D-платформер (Godot, GDScript):
+**Игра, 2D-платформер (Godot, GDScript):**
 https://drive.google.com/file/d/1T7ikO2yxbSCWsn-ieCu0N3PKpgAJczEg/view?usp=sharing
 
-Учебные (студенческие) проекты:
+**Учебные (студенческие) проекты:**
 
 Курсовой проект. Web-приложение (PHP + HTML + CSS):
 https://github.com/GamovMax/WebPhpHtmlCss
@@ -124,7 +124,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" title="Sublime Text" alt="Sublime Text" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" title="Microsoft Visual Studio" alt="Microsoft Visual Studio" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg" title="Atom" alt="Atom" width="45" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" title="Atom" alt="Atom" width="40" height="40"/>&nbsp
   <img src="https://www.selenium.dev/images/logos/webdriver.svg" title="Selenium WebDriver" alt="Selenium WebDriver" width="40" height="40"/>&nbsp
   <img src="https://www.selenium.dev/images/logos/grid.svg" title="Selenium Grid" alt="Selenium Grid" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/ru/0/08/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_Embarcadero_Delphi.png" title="Delphi" alt="Delphi" width="40" height="40"/>&nbsp
@@ -157,7 +157,7 @@ https://github.com/GamovMax/JsHtml
   <img src='https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg' title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp
   <img src='https://upload.wikimedia.org/wikipedia/commons/b/bb/TightVNC_logo.png' title="TightVNC" alt="TightVNC" width="40" height="40"/>&nbsp
   <img src='https://upload.wikimedia.org/wikipedia/commons/8/83/Chrome_Remote_Desktop_logo.png' title="Chrome Remote Desktop" alt="Chrome Remote Desktop" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Oc-logo-1c-invert.svg" title="ownCloud" alt="ownCloud" width="40" height="40"/>&nbsp
+  <img src="https://static-00.iconduck.com/assets.00/owncloud-icon-2048x2048-uuor4edn.png" title="ownCloud" alt="ownCloud" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Scalable_gparted.svg" title="GParted" alt="GParted" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Acronis_True_Image_2015_icon.png" title="Acronis True Image" alt="Acronis True Image" width="46" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" title="Debian" alt="Debian" width="32" height="40"/>&nbsp
@@ -172,7 +172,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://cdn.worldvectorlogo.com/logos/proxmox.svg" title="Proxmox" alt="Proxmox" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" title="Jenkins" alt="Jenkins" width="29" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/wordpress-2.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
+  <img src="https://www.gpo-tech.com/wp-content/uploads/2018/05/unnamed.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
   <img src="https://avatars.dzeninfra.ru/get-zen_doc/5218804/pub_63c8e6593719c524dd71db9b_63c8e90d81a65249513047b5/scale_720" title="osTicket" alt="osTicket" width="74" height="40"/>&nbsp
   <img src="https://redos.red-soft.ru/about/news/kit/LOGO_RED_OS_CMYK_W.png" title="РЕД ОС" alt="РЕД ОС" width="110" height="40"/>&nbsp
