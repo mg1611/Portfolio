@@ -28,7 +28,8 @@ C++; c#; perl; JavaScript; python; delphi; HTML; CSS; SQL;
 **Курсы:**<br>
 https://stepik.org/cert/2488794<br>
 https://youtube.com/playlist?list=PLZqgWWF4O-ziBZVXN19WcRHPM5DkH672c&feature=shared<br>
-https://youtube.com/playlist?list=PLZqgWWF4O-zgDLDBMva788aJf_vQ9GKJv&feature=shared<br>
+https://stepik.org/cert/2542670<br>
+https://stepik.org/cert/2539535<br>
 https://stepik.org/cert/2474443<br>
 https://stepik.org/cert/2467136<br>
 https://stepik.org/cert/2465939<br>
@@ -108,7 +109,7 @@ https://github.com/GamovMax/JsHtml
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
-  <img src="https://static-00.iconduck.com/assets.00/mysqlworkbench-icon-1024x1014-nnvsz83e.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
+  <img src="https://static-00.iconduck.com/assets.00/mysqlworkbench-icon-1024x1014-nnvsz83e.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
   <img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2013/09/mariadb-logo.png" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp
@@ -137,6 +138,8 @@ https://github.com/GamovMax/JsHtml
   <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" title="TestNG" alt="TestNG" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
   <img src="https://junit.org/junit4/images/junit-logo.png" title="JUnit" alt="JUnit" width="110" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" title="REST assured" alt="REST assured" width="40" height="40"/>&nbsp
+  <img src="https://blog.sf.education/wp-content/uploads/2023/05/maxresdefault-2-792x416.jpg" title="requests" alt="requests" width="80" height="40"/>&nbsp
 
 </div>
 
@@ -145,7 +148,7 @@ https://github.com/GamovMax/JsHtml
 ### ⚙ Администрирование и DevOps-инструменты:
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8FPJwYM4BAZf0UD923RcuL_w1knUAjFEerw&s" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" alt="VMware Workstation" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp
@@ -189,6 +192,8 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" title="Zabbix" alt="Zabbix" width="159" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/ru/b/b9/Logo_Radmin.jpg" title="RAdmin" alt="RAdmin" width="171" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Samba_logo_2010.svg" title="Samba" alt="Samba" width="280" height="40"/>&nbsp
+  <img src="https://www.cdata.com/ui/img/logo-activedirectory.png" title="Active Directory" alt="Active Directory" width="90" height="40"/>&nbsp
+  <img src="https://www.iredmail.org/images/logo.png" title="iRedmail" alt="iRedmail" width="50" height="40"/>&nbsp
 </div>
 
 ---
