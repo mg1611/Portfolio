@@ -12,7 +12,7 @@
 
 **Работа с виртуальными машинами** (virtualbox, VMware, Hyper-V, VMware ESXi, Proxmox) и физическими серверами (Linux, Windows Server): samba, pxe, iRedmail, Active Directory, XMPP(ejabberd), web-сервера.
 
-**Оформление и сопровождение багов** (Readmine, Mantis)
+**Оформление и сопровождение багов** (Readmine, Mantis, YouTrack)
 
 **Снифферы трафика** (Charles Proxy, Fiddler)
 
@@ -113,6 +113,8 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
   <img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2013/09/mariadb-logo.png" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" title="PhpMyAdmin" alt="PhpMyAdmin" width="68" height="40"/>&nbsp
+
 </div>
 
 ---
@@ -140,6 +142,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://junit.org/junit4/images/junit-logo.png" title="JUnit" alt="JUnit" width="110" height="40"/>&nbsp
   <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" title="REST assured" alt="REST assured" width="40" height="40"/>&nbsp
   <img src="https://blog.sf.education/wp-content/uploads/2023/05/maxresdefault-2-792x416.jpg" title="requests" alt="requests" width="80" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" title="Playwright" alt="Playwright" width="50" height="40"/>&nbsp
 
 </div>
 
@@ -194,6 +197,14 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Samba_logo_2010.svg" title="Samba" alt="Samba" width="280" height="40"/>&nbsp
   <img src="https://www.cdata.com/ui/img/logo-activedirectory.png" title="Active Directory" alt="Active Directory" width="90" height="40"/>&nbsp
   <img src="https://www.iredmail.org/images/logo.png" title="iRedmail" alt="iRedmail" width="50" height="40"/>&nbsp
+  <img src="https://w7.pngwing.com/pngs/365/66/png-transparent-vmware-esxi-vmware-vsphere-vmdk-virtual-machine-others-text-rectangle-logo-thumbnail.png" title="VMware ESXi VMware vSphere" alt="VMware ESXi VMware vSphere" width="40" height="40"/>&nbsp
+  <img src="https://2037604.fs1.hubspotusercontent-eu1.net/hub/2037604/hubfs/Digital/SS/SS_ADAPT/TRASSIR_actual.png?width=438&name=TRASSIR_actual.png" title="TRASSIR" alt="TRASSIR" width="140" height="40"/>&nbsp
+  <img src="https://pro-locks.ru/image/data/HID/SIGUR.jpg" title="СКУД Sphinx" alt="СКУД Sphinx" width="40" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/17677083?s=200&v=4" title="mRemoteNG" alt="mRemoteNG" width="40" height="40"/>&nbsp
+  <img src="https://migsoft.ru/upload/iblock/6b4/6b4d60380ccd09a4669255e9a7ba9961.png" title="MobaXterm" alt="MobaXterm" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" title="TeamCity" alt="TeamCity" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/YouTrack_icon.svg" title="YouTrack" alt="YouTrack" width="40" height="40"/>&nbsp
+
 </div>
 
 ---
