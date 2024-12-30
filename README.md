@@ -4,21 +4,23 @@
 
 ### 👨‍💻 Обо мне:
 
-**Работа с тест-кейсами** (TestRail, Allure TestOps)
+**Работа с тест-кейсами:** TestRail, Allure TestOps.
 
-**Тестирование backend** (Java, JUnit, TestNG, REST assured, postman, SoapUI, swagger, devtools, Python, pytest, requests)
+**Тестирование backend:** Java, JUnit, TestNG, REST assured, postman, SoapUI, swagger, devtools, Python, pytest, requests, Allure.
 
-**Разработка ui автотестов** (Java, JUnit, Selenium, TestNG, Allure, Selenium Grid, Python, pytest)
+**Разработка ui автотестов:** Java, JUnit, Selenium, Playwright, TestNG, Allure, Selenium Grid, Python, pytest.
 
-**Работа с виртуальными машинами** (virtualbox, VMware, Hyper-V, VMware ESXi, Proxmox) и физическими серверами (Linux, Windows Server): samba, pxe, iRedmail, Active Directory, XMPP(ejabberd), web-сервера.
+**Работа с виртуальными машинами** (virtualbox, VMware, Hyper-V, VMware ESXi, Proxmox) и **физическими серверами** (Linux, Windows Server): samba, pxe, iRedmail, Active Directory, XMPP(ejabberd), web-сервера.
 
-**Оформление и сопровождение багов** (Readmine, Mantis, YouTrack)
+**Оформление и сопровождение багов:** Readmine, Mantis, YouTrack.
 
-**Снифферы трафика** (Charles Proxy, Fiddler)
+**Снифферы трафика:** Charles Proxy, Fiddler.
 
-**Базовое нагрузочное тестирование** (Jmeter, Locust, wrk, Apache Bench, vegeta, siege)
+**Базовое нагрузочное тестирование:** Jmeter, Locust, wrk, Apache Bench, vegeta, siege.
 
-**Работа с документацией** (Confluence)
+**Работа с документацией:** Confluence.
+
+**CI/CD:** TeamCity, Jenkins, GitLab CI/CD, GitHub Actions.
 
 Администрирование 200 клиентских компьютеров; удалённое администрирование компьютеров в филиалах(компьютеры подключены через OpenVPN); осуществление выездных приёмов; администрирование почтового сервера microsoft exchange; администрирование файловых серверов; администрирование DHCP; администрирование Active Directory; прокладывание компьютерной сети; настройка маршрутизаторов; сборка\разборка системных блоков; установка\удаление\восстановление ОС и ПО; работа с apache и MySQL; Администрирование\разворачивание\миграция серверов на ос Linux(debian, ubuntu, redhat, centos, mint, opensuse); разворачивание и администрирование серверов: sftp, ftp, samba, pxe, zabbix, gns3, iRedmail, Active Directory(на censtos, ubuntu, WindowsServer), web-сервер; администрирование сервера видеонаблюдения (trassir); администрирование СКУД Sphinx; работа с виртуальными машинами(virtualbox, VMware, Hyper-V, VMware ESXi; Proxmox); удалённое администрирование(RDP, ssh, Ansible, AnyDesk, teamviewer, TightVNC, RAdmin, ammyy admin, LiteManager, chrome remote desktop); создание и восстановление бэкапов(acronis true image, acronis backup, R-Drive Image, GParted); Разворачивание и администрирование asterisk(freepbx), VPN(OpenVPN); работа с электронными подписями (криптопро, криптоарм, SimpleSigner); XMPP(ejabberd); git; Создание сайтов, форумов, интернет магазинов и файлообменников на CMS (WordPress; Joomla; OpenCart; Tilda; Drupal; phpBB); Cisco Packet Tracer; Wireshark; tcpdump; OpenMediaVault; ownCloud; ipFire; smoothwall;
 
@@ -34,7 +36,9 @@ https://stepik.org/cert/2474443<br>
 https://stepik.org/cert/2467136<br>
 https://stepik.org/cert/2465939<br>
 https://stepik.org/cert/2470327<br>
-https://stepik.org/cert/2525923
+https://stepik.org/cert/2525923<br>
+https://stepik.org/cert/2554377<br>
+https://stepik.org/cert/2611044
 
 **Мой базовый framework (Java + Selenium + JUnit + RestAssured):**
 https://github.com/GamovMax/SeleniumJavaJUnit
@@ -143,6 +147,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" title="REST assured" alt="REST assured" width="40" height="40"/>&nbsp
   <img src="https://blog.sf.education/wp-content/uploads/2023/05/maxresdefault-2-792x416.jpg" title="requests" alt="requests" width="80" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" title="Playwright" alt="Playwright" width="50" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" title="Godot Engine (GDScript)" alt="Godot Engine (GDScript)" width="40" height="40"/>&nbsp
 
 </div>
 
