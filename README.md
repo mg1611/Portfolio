@@ -22,7 +22,9 @@
 
 **CI/CD:** TeamCity, Jenkins, GitLab CI/CD, GitHub Actions.
 
-Администрирование 200 клиентских компьютеров; удалённое администрирование компьютеров в филиалах(компьютеры подключены через OpenVPN); осуществление выездных приёмов; администрирование почтового сервера microsoft exchange; администрирование файловых серверов; администрирование DHCP; администрирование Active Directory; прокладывание компьютерной сети; настройка маршрутизаторов; сборка\разборка системных блоков; установка\удаление\восстановление ОС и ПО; работа с apache и MySQL; Администрирование\разворачивание\миграция серверов на ос Linux(debian, ubuntu, redhat, centos, mint, opensuse); разворачивание и администрирование серверов: sftp, ftp, samba, pxe, zabbix, gns3, iRedmail, Active Directory(на censtos, ubuntu, WindowsServer), web-сервер; администрирование сервера видеонаблюдения (trassir); администрирование СКУД Sphinx; работа с виртуальными машинами(virtualbox, VMware, Hyper-V, VMware ESXi; Proxmox); удалённое администрирование(RDP, ssh, Ansible, AnyDesk, teamviewer, TightVNC, RAdmin, ammyy admin, LiteManager, chrome remote desktop); создание и восстановление бэкапов(acronis true image, acronis backup, R-Drive Image, GParted); Разворачивание и администрирование asterisk(freepbx), VPN(OpenVPN); работа с электронными подписями (криптопро, криптоарм, SimpleSigner); XMPP(ejabberd); git; Создание сайтов, форумов, интернет магазинов и файлообменников на CMS (WordPress; Joomla; OpenCart; Tilda; Drupal; phpBB); Cisco Packet Tracer; Wireshark; tcpdump; OpenMediaVault; ownCloud; ipFire; smoothwall;
+**Дополнительно:**
+
+Администрирование 200 клиентских компьютеров; удалённое администрирование компьютеров в филиалах(компьютеры подключены через OpenVPN); осуществление выездных приёмов; администрирование почтового сервера microsoft exchange; администрирование файловых серверов; администрирование DHCP; администрирование Active Directory; прокладывание компьютерной сети; настройка маршрутизаторов; сборка\разборка системных блоков; установка\удаление\восстановление ОС и ПО; работа с apache и MySQL; Администрирование\разворачивание\миграция серверов на ос Linux(debian, ubuntu, redhat, centos, mint, opensuse); разворачивание и администрирование серверов: sftp, ftp, samba, pxe, zabbix, gns3, iRedmail, Active Directory(на censtos, ubuntu, WindowsServer), web-сервер; администрирование сервера видеонаблюдения (trassir); администрирование СКУД Sphinx; работа с виртуальными машинами(virtualbox, VMware, Hyper-V, VMware ESXi; Proxmox; Yandex Cloud); удалённое администрирование(RDP, ssh, Ansible, AnyDesk, teamviewer, TightVNC, RAdmin, ammyy admin, LiteManager, chrome remote desktop); создание и восстановление бэкапов(acronis true image, acronis backup, R-Drive Image, GParted); Разворачивание и администрирование asterisk(freepbx), VPN(OpenVPN); работа с электронными подписями (криптопро, криптоарм, SimpleSigner); XMPP(ejabberd); git; Создание сайтов, форумов, интернет магазинов и файлообменников на CMS (WordPress; Joomla; OpenCart; Tilda; Drupal; phpBB); Cisco Packet Tracer; Wireshark; tcpdump; OpenMediaVault; ownCloud; ipFire; smoothwall;
 
 **Изучал в колледже и университете:**
 C++; c#; perl; JavaScript; python; delphi; HTML; CSS; SQL;
@@ -42,39 +44,39 @@ https://stepik.org/cert/2611044<br>
 https://stepik.org/cert/2721029<br>
 https://stepik.org/cert/2803215
 
-**Мой базовый framework (Java + Selenium + JUnit + RestAssured):**
-https://github.com/GamovMax/SeleniumJavaJUnit
+**Мой базовый framework (Java + Selenium + JUnit + RestAssured):**<br>
+https://github.com/GamovMax/POMSeleniumJavaJUnitRestAssured
 
-**Автотесты на python (python + pytest + selenium + requests):**
-https://github.com/GamovMax/PythonPytestSeleniumRequests
-
-**Разработанный мною сайт (PHP + HTML + CSS):**
-https://github.com/GamovMax/PhpHtmlCss
-
-**Bash-скрипт (многое из скрипта удалено из-за неразглашения коммерческой тайны):**
+**Bash-скрипт (многое из скрипта удалено из-за неразглашения коммерческой тайны):** <br>
 https://github.com/GamovMax/Bash
 
-**Игра, 2D-платформер (Godot, GDScript):**
+**Учебные и студенческие проекты:** <br>
+
+Автотесты на python (python + pytest + selenium + requests):<br>
+https://github.com/GamovMax/PythonPytestSeleniumRequests
+
+Разработанный мною сайт (PHP + HTML + CSS): <br>
+https://github.com/GamovMax/PhpHtmlCss
+
+Игра, 2D-платформер (Godot, GDScript): <br>
 https://drive.google.com/file/d/1T7ikO2yxbSCWsn-ieCu0N3PKpgAJczEg/view?usp=sharing
 
-**Учебные (студенческие) проекты:**
-
-Курсовой проект. Web-приложение (PHP + HTML + CSS):
+Курсовой проект. Web-приложение (PHP + HTML + CSS): <br>
 https://github.com/GamovMax/WebPhpHtmlCss
 
-Лабораторные работы по C#:
+Лабораторные работы по C#: <br>
 https://github.com/GamovMax/CSharp
 
-Курсовой проект на delphi:
+Курсовой проект на delphi: <br>
 https://github.com/GamovMax/Delphi
 
-Второй курсовой проект на delphi:
+Второй курсовой проект на delphi: <br>
 https://github.com/GamovMax/Delphi2
 
-Бот для telegram (python):
+Бот для telegram (python): <br>
 https://github.com/GamovMax/PythonBotTelegram
 
-Опросник (JS + HTML):
+Опросник (JS + HTML): <br>
 https://github.com/GamovMax/JsHtml
 
 ---
@@ -211,6 +213,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://migsoft.ru/upload/iblock/6b4/6b4d60380ccd09a4669255e9a7ba9961.png" title="MobaXterm" alt="MobaXterm" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" title="TeamCity" alt="TeamCity" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/YouTrack_icon.svg" title="YouTrack" alt="YouTrack" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Yandex_Cloud_logo.svg/320px-Yandex_Cloud_logo.svg.png" title="Yandex Cloud" alt="Yandex Cloud" width="267" height="40"/>&nbsp
 
 </div>
 
